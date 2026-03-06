@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1772547665 source:c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\bmtp-lab7-sokolov\prj\sokolov-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<stdbool.h>
+
